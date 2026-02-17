@@ -1,8 +1,5 @@
 # Herve Ruboneza Munyurangeri
 
-Oklahoma City, OK, US |
-[LinkedIn Profile](https://www.linkedin.com/in/munyurangeri)
-
 ## Professional Summary
 
 Full-Stack Developer with 5+ years of experience building and maintaining
