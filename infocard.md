@@ -5,14 +5,13 @@ location: Oklahoma City, OK
 summary:
   Full-Stack Node.js Developer | Build Web Applications enhanced with PWA
   capabilities | Fascinated by Lisp and Erlang
-tags: [Web Application, Front-End, Back-End]
+tags: [Web Application, Front-End, Back-End, Full-Stack]
 open_to: [full-time, Part-time]
 ---
 
-# Herve Ruboneza Munyurangeri
+# Herve R. Munyurangeri
 
 [rherve@gmail.com](mailto:rherve@gmail.com) .
-[GitHub](https://github.com/munyurangeri) .
 [LinkedIn](https://linkedin.com/in/munyurangeri)
 
 ## About
@@ -51,13 +50,17 @@ productivity and User Experience.
 
 ## Experience
 
-**Front-End Developer** | Ball Morse Lowe, PLLC | Oklahoma City, OK, US | 2024
+**Front-End Developer** | Ball Morse Lowe, PLLC | Oklahoma City, OK, US
+
+_2024_
 
 - Contributed to a React.js/Inertia.js front-end for FinCEN BOI Simple File
   platform, collaborating with back-end team on Laravel integration to support
   business regulatory compliance requirements. (https://boisimplefile.com)
 
-**Full-Stack Developer** | Freelancer | Oklahoma City, OK, US | 2023 – 2024
+**Full-Stack Developer** | Freelancer | Oklahoma City, OK, US
+
+_2023 – 2024_
 
 - Designed and built a responsive website for Anypoint Speedway, encouraging the
   MuleSoft programming community to engage with each other through healthy
@@ -67,7 +70,9 @@ productivity and User Experience.
 - Made WordPress theme and plugins for Pickup.Earth project prototype.
 
 **Software Developer Team Lead** | Ministry of Public Services and Labor |
-Kigali, Rwanda | 2020 – 2022
+Kigali, Rwanda
+
+_2020 – 2022_
 
 - Led a team of 5 in the end-to-end development of a national-scale RBM system
   that digitized performance contracts for government employees, streamlining
@@ -79,7 +84,9 @@ Kigali, Rwanda | 2020 – 2022
   accelerating project onboarding.
 
 **Senior Software Developer** | Ministry of Public Services and Labor | Kigali,
-Rwanda | 2018 – 2020
+Rwanda
+
+_2018 – 2020_
 
 - Championed the adoption of React and CI/CD practices, which accelerated
   feature experimentation and delivery while **reducing user support tickets by
