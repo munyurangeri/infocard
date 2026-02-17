@@ -1,6 +1,27 @@
+---
+name: Herve Ruboneza Munyurangeri
+title: Full-Stack Developer
+location: Oklahoma City, OK
+summary:
+  Full-Stack Developer with 5+ years of experience building and maintaining
+  scalable, modern web applications. Proficient in the end-to-end development
+  lifecycle—from designing pixel-perfect front ends with Next.js/React to
+  building robust backend services and APIs with Node.js. Proven ability to lead
+  development teams, architect DevOps infrastructure, and deliver systems that
+  significantly improve operational efficiency and user experience. Passionate
+  about leveraging modern DevOps practices and Browser Web APIs to enhance team
+  productivity and User Experience.
+tags: [JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3]
+open_to: [full-time, Part-time]
+---
+
 # Herve Ruboneza Munyurangeri
 
-## Professional Summary
+[rherve@gmail.com](mailto:rherve@gmail.com) .
+[GitHub](https://github.com/munyurangeri) .
+[LinkedIn](https://linkedin.com/in/munyurangeri)
+
+## About
 
 Full-Stack Developer with 5+ years of experience building and maintaining
 scalable, modern web applications. Proficient in the end-to-end development
@@ -34,7 +55,7 @@ productivity and User Experience.
   Workers, Push Notifications, Web Workers, IndexedDB
 - **Tools:** Git, Figma, Whimsical
 
-## Professional Experience
+## Experience
 
 **Front-End Developer** | Ball Morse Lowe, PLLC | Oklahoma City, OK, US | 2024
 
@@ -75,6 +96,6 @@ Rwanda | 2018 – 2020
 
 ## Education & Certifications
 
-- Associate Degree in Computer Studies (Internet Systems Major)
+- **Associate Degree in Computer Studies** (Internet Systems Major)
 - Cisco Certified Network Associate
 - NRF Foundation Supply Chain, Inventory & Logistics Certified Specialist
