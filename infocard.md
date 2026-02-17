@@ -3,15 +3,9 @@ name: Herve Ruboneza Munyurangeri
 title: Full-Stack Developer
 location: Oklahoma City, OK
 summary:
-  Full-Stack Developer with 5+ years of experience building and maintaining
-  scalable, modern web applications. Proficient in the end-to-end development
-  lifecycle—from designing pixel-perfect front ends with Next.js/React to
-  building robust backend services and APIs with Node.js. Proven ability to lead
-  development teams, architect DevOps infrastructure, and deliver systems that
-  significantly improve operational efficiency and user experience. Passionate
-  about leveraging modern DevOps practices and Browser Web APIs to enhance team
-  productivity and User Experience.
-tags: [JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3]
+  Full-Stack Node.js Developer | Build Web Applications enhanced with PWA
+  capabilities | Fascinated by Lisp and Erlang
+tags: [Web Application, Front-End, Back-End]
 open_to: [full-time, Part-time]
 ---
 
@@ -53,7 +47,7 @@ productivity and User Experience.
   (WCAG), Feature Flagging
 - **Web Technologies:** WebSockets, Server-Sent Events (SSE), PWA, Service
   Workers, Push Notifications, Web Workers, IndexedDB
-- **Tools:** Git, Figma, Whimsical
+- **Tools:** Git, Figma, Whimsical, WordPress
 
 ## Experience
 
