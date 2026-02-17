@@ -1,8 +1,6 @@
 # Herve Ruboneza Munyurangeri
 
-Oklahoma City, OK, US | (405) 410-1568 | rherve@gmail.com |
-[LinkedIn Profile](https://www.linkedin.com/in/munyurangeri) |
-[GitHub Profile](https://github.com/munyurangeri)
+[LinkedIn Profile](https://www.linkedin.com/in/munyurangeri)
 
 ## Professional Summary
 
