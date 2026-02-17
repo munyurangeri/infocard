@@ -1,5 +1,6 @@
 # Herve Ruboneza Munyurangeri
 
+Oklahoma City, OK, US |
 [LinkedIn Profile](https://www.linkedin.com/in/munyurangeri)
 
 ## Professional Summary
